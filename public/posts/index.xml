@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Feb 2026 11:36:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1</title>
+      <link>http://localhost:1313/posts/week-1/</link>
+      <pubDate>Wed, 04 Feb 2026 11:36:25 +0530</pubDate>
+      <guid>http://localhost:1313/posts/week-1/</guid>
+      <description>&lt;h2 id=&#34;markdown-zettlr-and-summarising&#34;&gt;Markdown, Zettlr, and Summarising&lt;/h2&gt;&#xA;&lt;p&gt;In the first class, I learnt about wiki and how it works. I then proceeded to practice with Markdown and did an online excersice.&lt;/p&gt;&#xA;&lt;p&gt;After that, I downloaded &lt;em&gt;Zettlr&lt;/em&gt; to further help me with my Markdown practice. With the combination of my skills and a bit of research, I figured out how to represent mathematical equations using LATEX format.&lt;/p&gt;&#xA;&lt;p&gt;Finally, me and my group split the chapter 8 and 9 from the book &lt;em&gt;The Information: A History, a Theory, a Flood by James Gleick&lt;/em&gt; and took notes summarising it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 28 Jan 2026 12:37:35 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi!&#xA;I&amp;rsquo;m Nithya, and this is my first post&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
