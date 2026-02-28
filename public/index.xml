@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 11:36:25 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 17:19:39 +0530</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 3</title>
+      <link>https://example.org/posts/week-3/</link>
+      <pubDate>Sat, 28 Feb 2026 17:19:39 +0530</pubDate>
+      <guid>https://example.org/posts/week-3/</guid>
+      <description>&lt;p&gt;Week 3 was a bit hard because we were supposed to push our blogs into github. After much difficulty, I was able to achieve it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Week 1</title>
       <link>https://example.org/posts/week-1/</link>

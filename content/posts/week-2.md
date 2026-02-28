@@ -4,6 +4,6 @@ draft = true
 title = 'Week 2'
 +++
 
-## W
+## 
 
 
