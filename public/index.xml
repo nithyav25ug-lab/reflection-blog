@@ -23,6 +23,13 @@
       <description>&lt;h2 id=&#34;markdown-zettlr-and-summarising&#34;&gt;Markdown, Zettlr, and Summarising&lt;/h2&gt;&#xA;&lt;p&gt;In the first class, I learnt about wiki and how it works. Although I have been using Wiki for almost my entire life, I wasn’t aware of its power and the social connection it provided. Wiki, the way I view it, is a huge notebook that the whole world can write on. Wiki connects the world by sharing information and correcting misinformation. Although the topic of Wiki itself is not new, the complexity of it was.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Week 2</title>
+      <link>https://example.org/posts/week-2/</link>
+      <pubDate>Wed, 04 Feb 2026 11:36:25 +0530</pubDate>
+      <guid>https://example.org/posts/week-2/</guid>
+      <description>&lt;h2 id=&#34;reading-summary&#34;&gt;Reading Summary&lt;/h2&gt;&#xA;&lt;p&gt;Our first task of the week was to install Hugo and Git. One of the most challenging parts was installing the right version of Hugo and then installing Git through Hugo. Thankfully, I was able to look up step-by-step procedures to install Git.&lt;/p&gt;&#xA;&lt;p&gt;For the rest of the class, me and my group typed out our summarization of the book from last week onto Outline. It was interesting to see last week’s concepts of Markdown being applied here. The notes I took really helped me put together the summarization.&#xA;We first put down a blurb for the chapters assigned to us, then proceeded to summarize what each chapter says. The next part was really fun as we were to put down what we thought of the readings and what we liked and disliked about it.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My Post</title>
       <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 12:37:35 +0530</pubDate>
