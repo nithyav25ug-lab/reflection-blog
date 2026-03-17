@@ -11,5 +11,5 @@ Our first task of the week was to install Hugo and Git. One of the most challeng
 For the rest of the class, me and my group typed out our summarization of the book from last week onto Outline. It was interesting to see last week’s concepts of Markdown being applied here. The notes I took really helped me put together the summarization.
 We first put down a blurb for the chapters assigned to us, then proceeded to summarize what each chapter says. The next part was really fun as we were to put down what we thought of the readings and what we liked and disliked about it.
 
-Finally, before ending the class, we filled out a form, reflecting on what we learnt in class.
+Finally, before ending the class we filled out a form, reflecting on what we learnt in class.
 
