@@ -2,59 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nithyas Reflection Blog</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Nithyas Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 21:49:44 +0530</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2026 16:26:39 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 12</title>
+      <link>http://localhost:1313/posts/week-12/</link>
+      <pubDate>Mon, 13 Apr 2026 16:26:39 +0530</pubDate>
+      <guid>http://localhost:1313/posts/week-12/</guid>
+      <description>&lt;h2 id=&#34;chatbot-project&#34;&gt;Chatbot Project&lt;/h2&gt;&#xA;&lt;p&gt;The concept of making a chatbot is pretty new to me. Although I have used chatbots when visiting sites, it did not occur to me to be curious about how one makes it.&#xA;Although the concept of chatbots isn’t new to me, the concept of creating one, however, is. I started this project with no idea about what to do. I wasn’t even sure if I should start off on an already existing template or to start from scratch. I searched around the internet for a bit, looking for tutorials on how the website works. Eventually, I figured out how to make a chatbot by trying to mimic the example chatbot given. Initially, I didn’t realise that I was supposed to connect the start button to whichever set of prompts I wanted to display. My chatbot is mainly a simple connection of prompts and buttons. Despite being a very simple chatbot, it is very informative about the programmes being offered at APU.&#xA;I also had a hard time figuring out how to add links to the chatbot in case the user wanted to explore a programme even more and check out its website.&#xA;Along with that, figuring out how to jump to other components of the chatbot was also challenging, and even confusing. I realised that it is very easy to mix up the connections and end up in a spot where one has to undo all the connections and redo it.&#xA;I find this entire process to be pretty similar to coding and algorithms. When a piece of code doesn’t work the way it was intended to, my first instinct is to look back at the code with keen eyes to see if there was something that I missed. If that doesn’t work, I write down the dry run of a code using a sample input. In a very similar fashion, I found myself tracing my path along the flowchart.&#xA;I find the use of flowcharts quite useful. It’s a very simple way to follow through a train of thought process, as long as the lines connecting each bubble don&amp;rsquo;t fall on top of each other.&#xA;Once I got past the initial difficulties of how the entire thing should work, the rest of the process of putting in information about each programme was easy.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Week 6</title>
-      <link>https://example.org/posts/week-6/</link>
+      <link>http://localhost:1313/posts/week-6/</link>
       <pubDate>Tue, 17 Mar 2026 21:49:44 +0530</pubDate>
-      <guid>https://example.org/posts/week-6/</guid>
+      <guid>http://localhost:1313/posts/week-6/</guid>
       <description>&lt;h2 id=&#34;optimization-and-brain-teasers&#34;&gt;Optimization and Brain Teasers&lt;/h2&gt;&#xA;&lt;p&gt;This week’s lab tasks were also really fun. The main focus of this week’s lab was to solve optimization problems. This time too, me and my groupmates split the questions and helped each other out. I did the Knapsack problem, not because I found it easy, but because I found it hard. In the previous class for the week, we watched a video explaining the Dynamic Programming Table; but I couldn’t fully understand how it worked. I spent a long time looking it up and reading about it, trying to figure it out. Finally, I was able to arrive at the right answer. I even explained how it works to my groupmates.&#xA;Along with that, I even did the Konigsberg Bridge problem. I found it to be really simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 5</title>
-      <link>https://example.org/posts/week-5/</link>
+      <link>http://localhost:1313/posts/week-5/</link>
       <pubDate>Tue, 17 Mar 2026 21:46:48 +0530</pubDate>
-      <guid>https://example.org/posts/week-5/</guid>
+      <guid>http://localhost:1313/posts/week-5/</guid>
       <description>&lt;h2 id=&#34;graphs-and-operations&#34;&gt;Graphs and Operations&lt;/h2&gt;&#xA;&lt;p&gt;This week, I had a nice time with my groupmates. The task for this week was to solve four problems. We divided the work evenly among us. Since I find it fun to do binary to decimal conversions, I helped with Question 3 as it was something I was familiar with.&#xA;Despite having assigned our own problems, we still helped each other out when we were stuck at a difficult part. All of us contributed towards the graph questions as it was a fairly new topic for all of us and we were still navigating through how to solve such problems.&#xA;This week too, due to our group effort, we finished out work before the full tenure of our class.&#xA;The most challenging part for me was in figuring out whether the transformation was invertible or not. But it wasn’t as challenging as the problems I faced during the previous lab classes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 4</title>
-      <link>https://example.org/posts/week-4/</link>
+      <link>http://localhost:1313/posts/week-4/</link>
       <pubDate>Tue, 17 Mar 2026 21:44:18 +0530</pubDate>
-      <guid>https://example.org/posts/week-4/</guid>
+      <guid>http://localhost:1313/posts/week-4/</guid>
       <description>&lt;h2 id=&#34;playing-with-images&#34;&gt;Playing with Images&lt;/h2&gt;&#xA;&lt;p&gt;This week, the lab classes were switched up a little. We worked on concepts we discussed the previous day: image transformation. We played around with some code to extract edges, blurring and rotation of images. It was fun to play around with the code and to see what mixing the placements of values can do to a picture; it helped understand how the matrices worked.&lt;/p&gt;&#xA;&lt;p&gt;Next, we had a numerical sum, again based on the previous day’s class. We had to solve it to find the video size of a video. With the help of my notes from the previous class, me and my groupmates were able to figure it out with ease.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 3</title>
-      <link>https://example.org/posts/week-3/</link>
+      <link>http://localhost:1313/posts/week-3/</link>
       <pubDate>Sat, 28 Feb 2026 17:19:39 +0530</pubDate>
-      <guid>https://example.org/posts/week-3/</guid>
+      <guid>http://localhost:1313/posts/week-3/</guid>
       <description>&lt;h2 id=&#34;blog-setup&#34;&gt;Blog Setup&lt;/h2&gt;&#xA;&lt;p&gt;This week was really challenging in comparison to the previous two. I’m grateful that the assignment was broken up into smaller tasks, making it easier to comprehend.&lt;/p&gt;&#xA;&lt;h3 id=&#34;task-1&#34;&gt;Task 1&lt;/h3&gt;&#xA;&lt;p&gt;Our first task of the week was to create a GitHub account, which was simple.&lt;/p&gt;&#xA;&lt;h3 id=&#34;task-2&#34;&gt;Task 2&lt;/h3&gt;&#xA;&lt;p&gt;Next, we were supposed to create a SSH key and add it to our Github account that we had previously created. This SSH key is meant to help write into our GitHub repositories using a private key file.&#xA;The entire concept of SSH keys are pretty foreign to me; so figuring out how to work with them and to connect it took more time than anticipated as I went in clueless about how it works, or what each line I run means, or, even worse, what each error means. Through many sessions troubleshooting, I finally was able to navigate my way through and connect my SSH key to my GitHub account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 1</title>
-      <link>https://example.org/posts/week-1/</link>
+      <link>http://localhost:1313/posts/week-1/</link>
       <pubDate>Wed, 04 Feb 2026 11:36:25 +0530</pubDate>
-      <guid>https://example.org/posts/week-1/</guid>
+      <guid>http://localhost:1313/posts/week-1/</guid>
       <description>&lt;h2 id=&#34;markdown-zettlr-and-summarising&#34;&gt;Markdown, Zettlr, and Summarising&lt;/h2&gt;&#xA;&lt;p&gt;In the first class, I learnt about wiki and how it works. Although I have been using Wiki for almost my entire life, I wasn’t aware of its power and the social connection it provided. Wiki, the way I view it, is a huge notebook that the whole world can write on. Wiki connects the world by sharing information and correcting misinformation. Although the topic of Wiki itself is not new, the complexity of it was.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week 2</title>
-      <link>https://example.org/posts/week-2/</link>
+      <link>http://localhost:1313/posts/week-2/</link>
       <pubDate>Wed, 04 Feb 2026 11:36:25 +0530</pubDate>
-      <guid>https://example.org/posts/week-2/</guid>
+      <guid>http://localhost:1313/posts/week-2/</guid>
       <description>&lt;h2 id=&#34;reading-summary&#34;&gt;Reading Summary&lt;/h2&gt;&#xA;&lt;p&gt;Our first task of the week was to install Hugo and Git. One of the most challenging parts was installing the right version of Hugo and then installing Git through Hugo. Thankfully, I was able to look up step-by-step procedures to install Git.&lt;/p&gt;&#xA;&lt;p&gt;For the rest of the class, me and my group typed out our summarization of the book from last week onto Outline. It was interesting to see last week’s concepts of Markdown being applied here. The notes I took really helped me put together the summarization.&#xA;We first put down a blurb for the chapters assigned to us, then proceeded to summarize what each chapter says. The next part was really fun as we were to put down what we thought of the readings and what we liked and disliked about it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 12:37:35 +0530</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hi! I&amp;rsquo;m Nithya! This is my first post for my BRIS blog. I hope you enjoyyy! ;)&lt;/p&gt;</description>
     </item>
   </channel>
