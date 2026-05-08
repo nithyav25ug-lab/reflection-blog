@@ -6,8 +6,22 @@
     <description>Recent content on Nithyas Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 21:49:44 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 12:19:31 +0530</lastBuildDate>
     <atom:link href="https://github.com/nithyav25ug-lab/reflection-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 4</title>
+      <link>https://github.com/nithyav25ug-lab/reflection-blog/posts/unit-4/</link>
+      <pubDate>Thu, 07 May 2026 12:19:31 +0530</pubDate>
+      <guid>https://github.com/nithyav25ug-lab/reflection-blog/posts/unit-4/</guid>
+      <description>&lt;h2 id=&#34;chatbot-project&#34;&gt;Chatbot Project&lt;/h2&gt;&#xA;&lt;p&gt;The concept of making a chatbot is pretty new to me. Although I have used chatbots when visiting sites, it did not occur to me to be curious about how one makes it.&#xA;Although the concept of chatbots isn’t new to me, the concept of creating one however, is. I started this project with no idea about what to do. I wasn’t even sure if I should start off on an already existing template or to start from scratch. I searched around the internet for a bit, looking for tutorials on how the website works. Eventually, I figured out how to make a chatbot by trying to mimic the example chatbot given. Initially, I didn’t realise that I was supposed to connect the start button to whichever set of prompts I wanted to display. My chatbot is mainly a simple connection of prompts and buttons. Despite being a very simple chatbot, it is very informative about the programmes being offered at APU.&#xA;I also had a hard time figuring out how to add links to the chatbot in case the user wanted to explore a programme even more and check out its website.&#xA;Along with that, figuring out how to jump to other components of the chatbot was also challenging, and even confusing. I realised that it is very easy to mix up the connections and end up in a spot where one has to undo all the connections and redo it.&#xA;I find this entire process to be pretty similar to coding and algorithms. When a piece of code doesn’t work the way it was intended to, my first instinct is to look back at the code with keen eyes to see if there was something that I missed. If that doesn’t work, I write down the dry run of a code using a sample input. In a very similar fashion, I found myself tracing my path along the flowchart.&#xA;I find the use of flowcharts quite useful. It’s a very simple way to follow through a train of thought process, as long as the lines connecting each bubble don&amp;rsquo;t fall on top of each other.&#xA;Once I got past the initial difficulties of how the entire thing should work, the rest of the process of putting in information about each programme was easy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unit 3</title>
+      <link>https://github.com/nithyav25ug-lab/reflection-blog/posts/unit-3/</link>
+      <pubDate>Wed, 08 Apr 2026 19:00:49 +0530</pubDate>
+      <guid>https://github.com/nithyav25ug-lab/reflection-blog/posts/unit-3/</guid>
+      <description>&lt;h2 id=&#34;failure-wiki&#34;&gt;Failure Wiki&lt;/h2&gt;&#xA;&lt;p&gt;For Unit 3, we focused solely on the failures and errors of multiple prominent entities. Although I had heard of a few of them, I wasn’t aware of their details; it was informative to know about them in detail. Me and my team were supposed to cover the AT&amp;amp;T Outage of 1990 and Chapter 7 of the book Right Kind of Wrong: The Science of Failing Well. One main theme across both the given resources was the concept of synergy. It was talked about in the book and could also be seen playing a huge role in the AT&amp;amp;T failure as the software update was not run together, but in parts. When a system is run in parts and not in whole, there can be room for unexpected outcomes to occur.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Week 6</title>
       <link>https://github.com/nithyav25ug-lab/reflection-blog/posts/week-6/</link>
